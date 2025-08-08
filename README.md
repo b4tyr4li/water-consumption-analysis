@@ -47,8 +47,8 @@ water-consumption-analysis/
 ---
 
 ## 📷 Sample Visuals
-![Choropleth Map](reports/figures/water_map.png)  
-![Regression Plot](reports/figures/regression_plot.png)
+![Choropleth Map](reports/figures/WorldMap.png)  
+![Regression Plot](reports/figures/LinearRegression.png)
 
 ---
 
