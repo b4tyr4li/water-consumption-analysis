@@ -41,9 +41,6 @@ water-consumption-analysis/
 - ├─ reports/
 - │ ├─ figures/ # PNGs for README + PDF report
 - │ └─ water_analysis_summary.pdf
-- ├─ src/
-- │ ├─ data_prep.py # Data cleaning & preprocessing functions
-- │ └─ plotting.py # Visualization helper functions
 - ├─ requirements.txt
 - └─ README.md
 
