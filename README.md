@@ -33,19 +33,19 @@
 
 ## 📂 Repository Structure
 water-consumption-analysis/
-├─ data/
-│ ├─ raw/ # Original CSVs (Worldometer, World Bank, Kaggle)
-│ └─ processed/ # Cleaned & merged datasets
-├─ notebooks/
-│ └─ 01_water_analysis.ipynb # Main Jupyter Notebook
-├─ reports/
-│ ├─ figures/ # PNGs for README + PDF report
-│ └─ water_analysis_summary.pdf
-├─ src/
-│ ├─ data_prep.py # Data cleaning & preprocessing functions
-│ └─ plotting.py # Visualization helper functions
-├─ requirements.txt
-└─ README.md
+- ├─ data/
+- │ ├─ raw/ # Original CSVs (Worldometer, World Bank, Kaggle)
+- │ └─ processed/ # Cleaned & merged datasets
+- ├─ notebooks/
+- │ └─ 01_water_analysis.ipynb # Main Jupyter Notebook
+- ├─ reports/
+- │ ├─ figures/ # PNGs for README + PDF report
+- │ └─ water_analysis_summary.pdf
+- ├─ src/
+- │ ├─ data_prep.py # Data cleaning & preprocessing functions
+- │ └─ plotting.py # Visualization helper functions
+- ├─ requirements.txt
+- └─ README.md
 
 ---
 
@@ -56,9 +56,9 @@ water-consumption-analysis/
 ---
 
 ## 🚀How to Run
-pip install -r requirements.txt
-jupyter lab
-Then open notebooks/01_water_analysis.ipynb and run all cells.
+- pip install -r requirements.txt
+- jupyter lab
+- Then open notebooks/01_water_analysis.ipynb and run all cells.
 
 ---
 
